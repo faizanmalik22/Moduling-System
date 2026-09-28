@@ -1,11 +1,11 @@
 //1. __dirname ,it print the current  working directory
-console.log(__dirname);//e:\NodeJs_Concepts
+//console.log(__dirname);//e:\NodeJs_Concepts
 
 //2. __filename ,it print the current file name with path
-console.log(__filename);//e:\NodeJs_Concepts\NodeJs_Globals.js
+//console.log(__filename);//e:\NodeJs_Concepts\NodeJs_Globals.js
 
 //3. Module ,it is a object which is used to load the module in node js
-console.log(module);//it print the module object, which use to load the module in node js, so it is useful for moduling system
+//console.log(module);//it print the module object, which use to load the module in node js, so it is useful for moduling system
 /*
 module.exports → export
 use module.exports to export the module from the current file and use require() to import the module in another file
