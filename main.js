@@ -1,4 +1,4 @@
-const {linearSearch,binarySearch} = require('./searching');//de-structuring the function from the module
+ import { linearSearch, binarySearch } from './searching.js';
 console.log(linearSearch);
 
 const arr = [1, 2, 3, 4, 5];
